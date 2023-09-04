@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdirizack</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **python and django**
 
-- 💬 Ask me about **javascript, web development**
+- 💬 Ask me about **HTML, CSS, Bootstap, MUI, Tailwind, Typescript, javascript,react and  web development in general**
 
 - 📫 How to reach me **abdirackissack2018@gmail.com**
 
