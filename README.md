@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirizack</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🌱 I’m currently learning **python and django**
 
