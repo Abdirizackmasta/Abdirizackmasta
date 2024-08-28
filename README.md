@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python and django**
 
-- 💬 Ask me about **HTML, CSS, Bootstap, MUI, Tailwind, Typescript, javascript,react and  web development in general**
+- 💬 Ask me about **HTML, CSS, Bootstap, MUI, Tailwind, Typescript, javascript,react, Next.js, Node, Mondo, Express and  web development in general**
 
 - 📫 How to reach me **abdirackissack2018@gmail.com**
 
