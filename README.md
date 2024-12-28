@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdirizack</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🌱 I’m currently learning **python and django**
+- 🌱 I’m currently learning **spring boot**
 
 - 💬 Ask me about **HTML, CSS, Bootstap, MUI, Tailwind, Typescript, javascript,react, Next.js, Node, Mondo, Express and  web development in general**
 
