@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirizack</h1>
-<h3 align="center">A passionate fullstack (Mern) software engineer and web development tutor</h3>
+<h3 align="center">A passionate and dedicated Full-Stack (MERN) Software Engineer with a proven track record of building scalable web applications. Also a skilled Web Development Tutor, empowering students to excel in coding and master modern technologies</h3>
 
 - 🌱 I’m currently learning **spring boot**
 
