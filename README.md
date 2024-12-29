@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirizack</h1>
-<h3 align="center">"Passionate MERN Stack Developer and Web Development Tutor dedicated to building scalable applications and empowering learners."</h3>
+<h3 align="center">Passionate MERN Stack Developer and Web Development Tutor dedicated to building scalable applications and empowering learners.</h3>
 
 - 🌱 I’m currently learning **spring boot**
 
